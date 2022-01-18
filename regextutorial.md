@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Regex (Regular Expression) Tutorial
 
 Introductory paragraph (replace this with your text)
 
@@ -46,4 +46,4 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Gabrielle Donald is a full-stack software engineer! Follow her on GitHub here: https://github.com/gabriellenoelle
