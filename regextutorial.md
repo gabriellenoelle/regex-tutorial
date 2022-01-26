@@ -1,6 +1,6 @@
 # Regex (Regular Expression) Tutorial
 
-Introductory paragraph (replace this with your text)
+A regular expression is simply a sequence of characters. But what does this sequence of characters do? A regular expression, or simply <b><i> regex </i></b>, defines a search pattern. A regex is a tool you can use in many different programming languages, and even sometimes outside of programming.
 
 ## Summary
 
